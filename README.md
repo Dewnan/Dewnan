@@ -1,23 +1,32 @@
-<h1 align="center">Hi 👋, I'm Dewnan</h1>
-<h3 align="center">A passionate developer from Sri Lanka</h3>
+## Hi there! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dewnan&label=Profile%20views&color=0e75b6&style=flat" alt="dewnan" /> </p>
+I'm Dewnan, a passionate developer who enjoys creating bugs.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dewnan" alt="dewnan" /></a> </p>
+## Skills & Technologies
 
-- 📫 How to reach me **dewnu123@gmail.com**
+java,py,nodejs,react,html,css,mongodb,mysql,git,github,linux,arduino,vscode,idea
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dewnan-chamithka-097896307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dewnan-chamithka" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dewnanchamithka1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dewnanchamithka1" height="30" width="40" /></a>
-</p>
+## Top Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- [Dewnan](https://github.com/Dewnan/Dewnan): My personal repository showcasing various projects. Stars: 0, Language: Not Specified
+- [insta_download_tg_bot](https://github.com/Dewnan/insta_download_tg_bot): A Telegram bot for downloading Instagram content. Stars: 0, Language: Python
+- [whatsapp_client](https://github.com/Dewnan/whatsapp_client): A WhatsApp client project. Stars: 0, Language: JavaScript
+- [cod4-linux-server-installer](https://github.com/Dewnan/cod4-linux-server-installer): A server installer for COD4 on Linux. Stars: 0, Language: Shell
+- [my-portfolio](https://github.com/Dewnan/my-portfolio): My personal portfolio website. Stars: 0, Language: HTML
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dewnan&show_icons=true&locale=en&layout=compact" alt="dewnan" /></p>
+## GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dewnan&show_icons=true&locale=en" alt="dewnan" /></p>
+🌟 **Public Repositories:** 9  
+👥 **Followers:** 1  
+🔄 **Following:** 6  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dewnan&show_icons=true&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dewnan&" alt="dewnan" /></p>
+## Recent Activity
+
+- Pushed to [insta_download_tg_bot](https://github.com/Dewnan/insta_download_tg_bot) - switched to instaloader and a way to handle images and videos. (April 27, 2025)
+- Pushed to [insta_download_tg_bot](https://github.com/Dewnan/insta_download_tg_bot) - did some improvement and able to download videos. (April 26, 2025)
+- Public event on [whatsapp_client](https://github.com/Dewnan/whatsapp_client) (April 26, 2025)
+
+## Connect with Me
+
+{"LinkedIn":"https://lk.linkedin.com/in/dewnan-chamithka-097896307"}
